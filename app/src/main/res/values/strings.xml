@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">LooperThreadExample</string>
-    <string name="a_btn_text">Button A</string>
-    <string name="b_btn_text">Button B</string>
+    <string name="a_btn_text">Task A</string>
+    <string name="b_btn_text">Task B</string>
 </resources>
